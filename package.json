@@ -1,0 +1,20 @@
+{
+  "name": "find_breweries",
+  "version": "1.0.0",
+  "description": "The application helps you to find nearby breweries",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon"
+  },
+  "author": "Shraddha Kharche",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^1.19.4",
+    "request": "^2.88.0"
+  }
+}
